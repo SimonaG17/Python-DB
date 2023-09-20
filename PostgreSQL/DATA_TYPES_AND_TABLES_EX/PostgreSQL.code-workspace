@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Python-DB",
+			"path": "../../../../.vscode/VS code files/Python-DB"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
