@@ -1,6 +1,6 @@
-# Python-DB
+# Python-DB - PostgreSQL module
 
-In this repo you can see my progress of Python DB(PostgreSQL) and all the requests during the course.
+In this repo you can see my progress of in PostgreSQL and all the requests during the course.
 
 ## Plans
 
