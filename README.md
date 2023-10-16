@@ -154,7 +154,7 @@ Bonus: Indices - two types
 ---
 
 
-BUILD IN FUNCTIONS
+## BUILD IN FUNCTIONS
 
 1. String, Math, Date And Time
 
